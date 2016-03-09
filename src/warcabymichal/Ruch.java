@@ -7,6 +7,7 @@ public class Ruch
     public boolean bicie = false;
     public int zbityX;
     public int zbityY;
+    public int koszt = 999;
 
     public Ruch(int x, int y) {
         this.x = x;
