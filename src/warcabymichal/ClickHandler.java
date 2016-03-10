@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /*
 @author Info : PWSZ Skierniewice Michał Brzujszczak 3ROK INFORMATYKI PWSZ
-
+@ DATE: 10.03.2016
 
 */
 
