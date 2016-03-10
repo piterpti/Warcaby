@@ -6,6 +6,12 @@ import java.util.ArrayList;
 import java.util.Random;
 import javax.swing.JOptionPane;
 
+/*
+@author Info : PWSZ Skierniewice Michał Brzujszczak 3ROK INFORMATYKI PWSZ
+
+
+*/
+
 
 public class ClickHandler extends MouseAdapter
 {
