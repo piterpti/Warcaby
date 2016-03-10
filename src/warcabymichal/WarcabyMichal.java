@@ -4,6 +4,7 @@ import java.awt.*;
 
 /*
 @author Michał B
+@blabla
 
 */
 
